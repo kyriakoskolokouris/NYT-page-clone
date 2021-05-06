@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    box-sizing: border-box;
+}
+
+/* HEADER */
+nav{
+    display: flex;
+   justify-content:space-around;
+   position: sticky;
+   border-bottom: solid 1px rgba(128, 128, 128, 0.212);
+   padding:5px;
+}
+
+.top-left {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 0px;
+}
+
+.burger {
+    width: 15px;
+    float: left;
+}
+.lens-top {
+    width: 15px;
+
+}
+/* ARTICLE TITLE */
