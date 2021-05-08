@@ -1,6 +1,6 @@
 The webpage has been deployed on Netlify 🔗 --> https://nyt-avis.netlify.app/
 
-                                            ---
+               ________________________________________________________
 
 ![image](https://raw.githubusercontent.com/kyriakoskolokouris/NYT-page-clone/master/images/The_New_York_Times_logo.png)
 
